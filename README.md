@@ -1,5 +1,10 @@
 ### Hi!im AirlandKK~ 👋
 
+## About me
+* 🌱 Currently learning :
+   -  Spark
+   -  Flink
+* 😄 Nothing is impossible！Go ahead!
 <!--
 **AirlandKK/AirlandKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
