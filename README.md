@@ -1,4 +1,4 @@
-### Hi!im AirlandKK~ 👋
+### Hi!I'm AirlandKK~ 👋
 
 ## About me
 * 🌱 Currently learning :
